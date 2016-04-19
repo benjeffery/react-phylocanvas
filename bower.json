@@ -1,0 +1,33 @@
+{
+  "name": "react-phylocanvas",
+  "main": "lib/PhylocanvasComponent.js",
+  "version": "0.3.1",
+  "homepage": "https://github.com/benjeffery/react-phylocanvas",
+  "authors": [
+    "Ben Jeffery"
+  ],
+  "description": "ReactJS / Phylocanvas integration. Draw phylocanvas trees in your react app.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "phylocanvas",
+    "tree",
+    "newick",
+    "phylogeny"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
