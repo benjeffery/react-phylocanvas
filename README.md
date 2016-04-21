@@ -13,7 +13,7 @@ import Phylocanvas from 'react-phylocanvas';
   render() {
    let data = "GRAPH_DATA_STRING_EG_NEWICK";
     return (
-      <Phylocanvas className="whatever" data={data} />
+      <Phylocanvas className="whatever" data={data} treeType="circular"/>
     );
   }
 
