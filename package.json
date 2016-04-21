@@ -1,6 +1,6 @@
 {
   "name": "react-phylocanvas",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ReactJS / Phylocanvas integration. Draw phylocanvas trees in your react app.",
   "main": "lib/PhylocanvasComponent.js",
   "author": "Ben Jeffery",
