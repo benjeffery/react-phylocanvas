@@ -1,7 +1,7 @@
 import React from 'react';
 import PhyloCanvas from 'phylocanvas';
 import {treeTypes} from 'phylocanvas';
-import _keys from 'lodash/keys';
+import _keys from 'lodash.keys';
 
 export default class PhylocanvasComponent extends React.Component {
   static propTypes = {

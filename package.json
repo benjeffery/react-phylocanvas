@@ -10,6 +10,7 @@
     "url": "https://github.com/benjeffery/react-phylocanvas.git"
   },
   "dependencies": {
+    "lodash.keys": "^4.2.0",
     "phylocanvas": "git+https://github.com/phylocanvas/phylocanvas.git#v2.2.0"
   },
   "devDependencies": {
